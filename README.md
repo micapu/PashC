@@ -1,4 +1,5 @@
-# Pashc - A website name deterministic offline unique password generator
+# PashWord
+## A website name deterministic, offline, unique password generator
 
 
 
