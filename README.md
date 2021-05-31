@@ -3,7 +3,7 @@
 
 
 
-Pashc is a way of creating unique passwords for all your websites without using a centralised online password manager. 
+PashWord is a way of creating unique passwords for all your websites without using a centralised online password manager. 
 
 Simply type your website name in and you will be given a unique password ender to a base password only you know.
 
